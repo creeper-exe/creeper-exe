@@ -24,7 +24,7 @@ class Pentester:
 me = Pentester()
 me.say_hi()
 ```
----
+<br/>  
 
 ### 📕 Latest Blog Posts
 
@@ -34,7 +34,7 @@ me.say_hi()
 
 ➡️ [more blog posts...](https://noureldinehab.medium.com/)
 
----
+
 
 <br/>  
 
