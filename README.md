@@ -24,7 +24,17 @@ class Pentester:
 me = Pentester()
 me.say_hi()
 ```
+---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [HiveNightmare aka SeriousSam Local Privilege Escalation in Windows (CVE-2021–36934)](https://noureldinehab.medium.com/hivenightmare-aka-serioussam-local-privilege-escalation-in-windows-cve-2021-36934-1b9886008333)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://noureldinehab.medium.com/)
+
+---
 
 <br/>  
 
