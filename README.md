@@ -30,6 +30,7 @@ me.say_hi()
 
 <!-- BLOG-POST-LIST:START -->
 - [HiveNightmare aka SeriousSam Local Privilege Escalation in Windows (CVE-2021–36934)](https://noureldinehab.medium.com/hivenightmare-aka-serioussam-local-privilege-escalation-in-windows-cve-2021-36934-1b9886008333)
+- [How to install Golang (latest version) on Kali Linux](https://noureldinehab.medium.com/how-to-install-golang-latest-version-on-kali-linux-1afa2bd64ace)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://noureldinehab.medium.com/)
